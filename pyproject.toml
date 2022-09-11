@@ -10,10 +10,11 @@ readme = "README.md"
 python = "^3.10"
 jsonlib = "1.1.0"
 #turtle = "latest"
-#urllib3 = "latest"
-#times = "latest"
+urllib3 = "latest"
+times = "latest"
 #pycopy-webbrowser = "latest"
-#geocoder = "latest"
+geocoder = "latest"
+ISS_Info ="latest"
 
 [build-system]
 requires = ["poetry-core"]
