@@ -2,7 +2,7 @@
 name = "Location_ISS"
 version = "0.1.0"
 description = ""
-authors = ["Tiago Reiss <Tiago.B.C.Reis@hotmail.com>"]
+authors = ["Tiago Reis <Tiago.B.C.Reis@hotmail.com>"]
 readme = "README.md"
 #packages = [{include = "poetry_demo"}]
 
@@ -10,11 +10,13 @@ readme = "README.md"
 python = "^3.10"
 jsonlib = "1.1.0"
 #turtle = "latest"
-urllib3 = "latest"
-times = "latest"
+urllib3 = "1.26.12"
+#urllib2 = "latest"
+#times = "latest"
 #pycopy-webbrowser = "latest"
-geocoder = "latest"
-ISS_Info ="latest"
+#geocoder = "latest"
+ISS_Info ="1.0.0"
+#tk = "latest"
 
 [build-system]
 requires = ["poetry-core"]
